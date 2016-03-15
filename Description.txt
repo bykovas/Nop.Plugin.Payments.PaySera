@@ -1,0 +1,8 @@
+﻿Group: Payment methods
+FriendlyName: PaySera
+SystemName: Payments.PaySera
+Version: 1.10
+SupportedVersions: 3.30
+Author: Denisas Bykovas, nopCommerce.lt team
+DisplayOrder: 1
+FileName: Nop.Plugin.Payments.PaySera.dll
